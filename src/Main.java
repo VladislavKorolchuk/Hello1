@@ -8,6 +8,7 @@ public class Main {
         int tt;
         int tttt;
 
+        int ttttttt;
 
         System.out.println("Hello world!");
     }
