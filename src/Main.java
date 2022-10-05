@@ -6,6 +6,7 @@ public class Main {
 
 
         int tt;
+        int tttt;
 
 
         System.out.println("Hello world!");
