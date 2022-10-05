@@ -4,6 +4,10 @@ public class Main {
 
         System.out.println("оправка к коду");
 
+
+        int tt;
+
+
         System.out.println("Hello world!");
     }
 }
